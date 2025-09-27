@@ -41,7 +41,7 @@ Neste perfil, você encontrará projetos focados na área de **Data Engineering*
 
 ## 🤝 Conecte-se Comigo
 
-Estou ativamente buscando oportunidades onde eu possa aplicar e expandir minhas habilidades em Engenharia de Dados. Sinta-se à vontade para me contatar.
+Estou ativamente buscando oportunidades onde eu possa aplicar e expandir minhas habilidades em Engenharia de Dados e Desenvolvimento Python. Sinta-se à vontade para me contatar.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-henrique-920aa5225)
 ---
