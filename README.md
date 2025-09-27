@@ -12,11 +12,11 @@ Aqui estão as principais ferramentas e tecnologias que utilizo no meu dia a dia
 
 | Categoria | Habilidades e Ferramentas |
 | :--- | :--- |
-| **Linguagens/Frameworks/BD** | Python, Flask, SQL (mySQL, SQLite) |
+| **Linguagens/Frameworks/BD** | Python, Flask |
+| **Banco de Dados** | SQL (mySQL, SQLite)
 | **Análise de Dados** | Pandas, Numpy, Seaborn, Plotly |
 | **Desenvolvimento** | CRUD, Requisições API (`requests`), Padrões de Projeto |
-| **Business Intelligence** | PowerBI, Data Warehouse |
-| **Infraestrutura** | Data Pipeline Design |
+| **Business Intelligence** | PowerBI | 
 
 ### Emblemas (Badges) de Habilidades
 
