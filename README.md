@@ -18,8 +18,6 @@ Aqui estão as principais ferramentas e tecnologias que utilizo no meu dia a dia
 | **Desenvolvimento** | CRUD, Requisições API (`requests`), Padrões de Projeto |
 | **Business Intelligence** | PowerBI | 
 
-### Minhas Habilidades
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
