@@ -28,7 +28,7 @@ Aqui estão as principais ferramentas e tecnologias que utilizo no meu dia a dia
 
 ## 📊 Projetos em Destaque
 
-Neste perfil, você encontrará projetos focados na área de **Data Engineering** e **Data Science**, abrangendo desde o desenvolvimento de **APIs** para manipulação de dados até a criação de **Data Warehouses** e a geração de *insights* de negócio.
+No meu perfil, você encontrará projetos focados na área de **Data Engineering** e **Data Science**, abrangendo desde o desenvolvimento de **APIs** para manipulação de dados até a criação de **Data Warehouses** e a geração de *insights* de negócio.
 
 *Explore meus repositórios para ver exemplos práticos de:*
 
