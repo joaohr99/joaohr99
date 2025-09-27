@@ -33,15 +33,3 @@
 </div>
 
 ###
-
-<h2 align="center">Social Media</h2>
-
-###
-
-<div align="center">
-  <a href="linkedin.com/in/joão-henrique-920aa5225" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
