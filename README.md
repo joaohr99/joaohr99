@@ -12,15 +12,13 @@ Aqui estão as principais ferramentas e tecnologias que utilizo no meu dia a dia
 
 | Categoria | Habilidades e Ferramentas |
 | :--- | :--- |
-| **Linguagens/Frameworks** | Python, Flask, SQL (mySQL, SQLite) |
+| **Linguagens/Frameworks/BD** | Python, Flask, SQL (mySQL, SQLite) |
 | **Análise de Dados** | Pandas, Numpy, Seaborn, Plotly |
 | **Desenvolvimento** | CRUD, Requisições API (`requests`), Padrões de Projeto |
 | **Business Intelligence** | PowerBI, Data Warehouse |
 | **Infraestrutura** | Data Pipeline Design |
 
 ### Emblemas (Badges) de Habilidades
-
-*Você pode adicionar badges (emblemas) para dar um toque visual. Aqui estão alguns exemplos de como eles se parecem no código, focados nas suas tecnologias.*
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -52,10 +50,9 @@ Estou ativamente buscando oportunidades onde eu possa aplicar e expandir minhas 
 
 ## 📈 Estatísticas do GitHub
 
-*Você pode adicionar este bloco para mostrar suas estatísticas de contribuição. Lembre-se que as URLs abaixo (começando com `https://github-readme-stats.vercel.app/...`) devem ser inseridas como **imagens** no Markdown.*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaohr99&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaohr99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=**SEU_NOME_DE_USUARIO**&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**SEU_NOME_DE_USUARIO**&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
-</p>
+###
