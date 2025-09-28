@@ -2,7 +2,7 @@
 
 ### Engenheiro de Dados focado em construir Data Pipelines e obter *insights* valiosos.
 
-TEnho experiência na criação de soluções robustas para manipulação, análise e visualização de dados. Meu foco principal é transformar dados brutos em informações acionáveis, utilizando uma abordagem eficiente na construção de **Data Pipelines** e APIs.
+Tenho experiência na criação de soluções robustas para manipulação, análise e visualização de dados. Meu foco principal é transformar dados brutos em informações acionáveis, utilizando uma abordagem eficiente na construção de **Data Pipelines** e APIs.
 
 ---
 
